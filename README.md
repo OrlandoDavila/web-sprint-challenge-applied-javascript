@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+    The DOM (Document Object Model) is the interface between HTML/CSS & JavaScript. It is used to manipulate HTML tags that have been turned into a JS object. 
+
 2. What is an event?
+
+    Events are code that run when a user is interacting with a website.
 
 3. What is an event listener?
 
+    An event listener waits for a particular event to occure such as a click, or a scroll with the mouse. Then, it preforms an action corresponding to the programmed event. 
+
 4. Why would we convert a NodeList into an Array?
 
+    Since a NodeList is only Array-like, one is limited with how they would be able to manipulate the information within it. 
+
 5. What is a component?
+
+    A component is a part of an element, usually a single modular peice of code which consist of HTML/CSS & JS. It is resuable and can stand alone. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
